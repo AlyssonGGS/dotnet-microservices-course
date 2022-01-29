@@ -1,0 +1,17 @@
+-- Get All
+GET http://localhost:32241/api/platforms/
+
+###
+-- Get By id
+GET http://localhost:32241/api/platforms/1
+
+###
+-- Create platform
+POST http://localhost:32241/api/platforms/ HTTP/1.1
+content-type: application/json
+
+{
+    "name": "JVM",
+    "publisher": "Oracle",
+    "cost": "free"
+}
