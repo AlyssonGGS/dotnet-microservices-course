@@ -2174,11 +2174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alyssongeraldo/study/PlatformService/PlatformService.csproj",
+      "projectUniqueName": "/Users/alyssongeraldo/study/DotNetFullCourse/PlatformService/PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "/Users/alyssongeraldo/study/PlatformService/PlatformService.csproj",
+      "projectPath": "/Users/alyssongeraldo/study/DotNetFullCourse/PlatformService/PlatformService.csproj",
       "packagesPath": "/Users/alyssongeraldo/.nuget/packages/",
-      "outputPath": "/Users/alyssongeraldo/study/PlatformService/obj/",
+      "outputPath": "/Users/alyssongeraldo/study/DotNetFullCourse/PlatformService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alyssongeraldo/.nuget/NuGet/NuGet.Config"

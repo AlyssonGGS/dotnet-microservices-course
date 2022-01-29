@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "djDsn9KbjG7aNAVDScW69mQVtDQ4BNGLvkVMiOG92P7e0ws5larpwBnX/Hkbno5Sp2Hi+v7hS7UYDDbjt7Z0xw==",
+  "dgSpecHash": "AgKEjJ+LK+qgh5FPj0rdGnUi6+fwxmN20KfbX6S+3Y8WaDP4rYQf6Vc3Ini+Me9DG9bg1GZ09WYDBhmPfzJTWQ==",
   "success": true,
-  "projectFilePath": "/Users/alyssongeraldo/study/PlatformService/PlatformService.csproj",
+  "projectFilePath": "/Users/alyssongeraldo/study/DotNetFullCourse/PlatformService/PlatformService.csproj",
   "expectedPackageFiles": [
     "/Users/alyssongeraldo/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/alyssongeraldo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
