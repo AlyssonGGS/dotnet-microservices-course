@@ -1,4 +1,3 @@
--- Create platform
 POST http://localhost:5087/api/command/platforms/ HTTP/1.1
 content-type: application/json
 
