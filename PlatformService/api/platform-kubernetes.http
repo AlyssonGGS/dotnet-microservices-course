@@ -1,10 +1,10 @@
-GET http://localhost:32241/api/platforms/
+GET http://acme.com/api/platforms/
 
 ###
-GET http://localhost:32241/api/platforms/1
+GET http://acme.com/api/platforms/1
 
 ###
-POST http://localhost:32241/api/platforms/ HTTP/1.1
+POST http://acme.com/api/platforms/ HTTP/1.1
 content-type: application/json
 
 {
