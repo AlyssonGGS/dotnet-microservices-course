@@ -30,10 +30,10 @@ spec:
           volumeMounts:
             - mountPath: /var/opt/mssql/data
               name: mssqldb
-          volumes:
-            - name: mssqldb
-              persistentVolumeClaim:
-                clainName: mssql-claim
+      volumes:
+        - name: mssqldb
+          persistentVolumeClaim:
+            claimName: mssql-claim
 ---
 apiVersion: v1
 kind: Service
